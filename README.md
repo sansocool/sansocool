@@ -13,12 +13,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<p align="right">
-    <a href="https://app.daily.dev/maharjansanisha">
-        <img align="right" src="https://github.com/maharjansanisha/maharjansanisha/blob/main/devcard.svg" width="300" alt="Sanisha Maharjan's Dev Card" />
-    </a>
-</p>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=maharjansanisha&show_icons=true&theme=midnight-purple&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharjansanisha&theme=midnight-purple)
