@@ -3,6 +3,7 @@
 ## Tech Stack
 
 ![GNU Octave](https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -11,6 +12,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=maharjansanisha&show_icons=true&theme=midnight-purple&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharjansanisha&theme=midnight-purple)
